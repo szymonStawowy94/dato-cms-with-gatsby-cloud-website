@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e358871-2787-40f3-972c-949c81623d3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/migrations/1606733644_'gatsbyPreviewField'.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/mapModule/MapModule.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/mapModule/SimpleMap.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/article.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/article.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/about.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/migrations" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -71,6 +74,7 @@
       <workItem from="1604076935601" duration="116000" />
       <workItem from="1604227625812" duration="2219000" />
       <workItem from="1606984167178" duration="673000" />
+      <workItem from="1612273553801" duration="983000" />
     </task>
     <servers />
   </component>
