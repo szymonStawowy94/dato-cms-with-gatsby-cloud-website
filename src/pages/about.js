@@ -3,6 +3,7 @@ import { graphql } from 'gatsby'
 import { HelmetDatoCms } from 'gatsby-source-datocms'
 import Img from 'gatsby-image'
 import Layout from "../components/layout"
+import MapModule from "../components/mapModule/MapModule";
 
 const About = ({ data: { about } }) => (
   <Layout>
@@ -21,6 +22,7 @@ const About = ({ data: { about } }) => (
           }}
         />
       </div>
+	    <MapModule/>
     </article>
   </Layout>
 )
