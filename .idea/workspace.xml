@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5e358871-2787-40f3-972c-949c81623d3c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/mapModule/SimpleMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/mapModule/SimpleMap.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +70,7 @@
       <workItem from="1604076935601" duration="116000" />
       <workItem from="1604227625812" duration="2219000" />
       <workItem from="1606984167178" duration="673000" />
-      <workItem from="1612273553801" duration="2276000" />
+      <workItem from="1612273553801" duration="2631000" />
     </task>
     <servers />
   </component>
